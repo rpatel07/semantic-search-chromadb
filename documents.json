@@ -1,0 +1,94 @@
+{
+  "documents": [
+    {
+      "id": "doc_001",
+      "document": "Python is a programming language used for AI development.",
+      "metadata": {
+        "topic": "Programming",
+        "sub_topic": "Languages",
+        "type": "Definition"
+      }
+    },
+    {
+      "id": "doc_002",
+      "document": "Machine learning helps computers learn patterns from data.",
+      "metadata": {
+        "topic": "Artificial Intelligence",
+        "sub_topic": "Machine Learning",
+        "type": "Concept"
+      }
+    },
+    {
+      "id": "doc_003",
+      "document": "Canada is located in North America and has 10 provinces.",
+      "metadata": {
+        "topic": "Geography",
+        "sub_topic": "Political Geography",
+        "type": "Fact"
+      }
+    },
+    {
+      "id": "doc_004",
+      "document": "Transformers are neural network architectures for NLP tasks.",
+      "metadata": {
+        "topic": "Artificial Intelligence",
+        "sub_topic": "Natural Language Processing",
+        "type": "Architecture"
+      }
+    },
+    {
+      "id": "doc_005",
+      "document": "Docker packages applications in containers.",
+      "metadata": {
+        "topic": "DevOps",
+        "sub_topic": "Containerization",
+        "type": "Tool"
+      }
+    },
+    {
+      "id": "doc_006",
+      "document": "SQL is used to query and manage relational databases.",
+      "metadata": {
+        "topic": "Data Management",
+        "sub_topic": "Databases",
+        "type": "Language"
+      }
+    },
+    {
+      "id": "doc_007",
+      "document": "Deep learning uses neural networks with many layers.",
+      "metadata": {
+        "topic": "Artificial Intelligence",
+        "sub_topic": "Deep Learning",
+        "type": "Concept"
+      }
+    },
+    {
+      "id": "doc_008",
+      "document": "Git is a version control system used by developers.",
+      "metadata": {
+        "topic": "DevOps",
+        "sub_topic": "Version Control",
+        "type": "Tool"
+      }
+    },
+    {
+      "id": "doc_009",
+      "document": "RAG stands for Retrieval Augmented Generation.",
+      "metadata": {
+        "topic": "Artificial Intelligence",
+        "sub_topic": "Natural Language Processing",
+        "type": "Acronym"
+      }
+    },
+    {
+      "id": "doc_010",
+      "document": "ChromaDB is a vector database for storing embeddings.",
+      "metadata": {
+        "topic": "Data Management",
+        "sub_topic": "Vector Databases",
+        "type": "Tool"
+      }
+    }
+  ]
+}
